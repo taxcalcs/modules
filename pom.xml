@@ -75,7 +75,7 @@
 		<project.java.version>1.8</project.java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		
-		<org.junit.jupiter.version>5.8.1</org.junit.jupiter.version>
+		<org.junit.jupiter.version>5.8.2</org.junit.jupiter.version>
 		<org.junit.platform.version>1.8.2</org.junit.platform.version>
 		<javax.xml.bind.version>2.4.0-b180830.0359</javax.xml.bind.version>
 		<org.glassfish.jaxb.version>2.4.0-b180830.0438</org.glassfish.jaxb.version>
